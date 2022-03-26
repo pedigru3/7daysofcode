@@ -1,4 +1,4 @@
-<h1>Desafio 1<h1>
+<h1>Desafio 1</h1>
 <p>Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:</p>
 ```
 let numeroUm = 1
