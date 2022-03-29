@@ -6,3 +6,6 @@ Caso erre, ele vai te dar mais 2 tentativas.</li>
 <li>No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial.</li>
 <li>Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.</li>
 </ul>
+
+# Codeopen
+https://codepen.io/pedigru3/pen/OJzgWvX
